@@ -84,12 +84,9 @@ Orders vs Quantity comparison
 
 Clean, business-friendly UI design
 ***
-### 📸 Dashboard Preview
+## 📸 Dashboard Preview
+![Pizza Sales Dashboard](Overview_Pic.png)
 
-(Add screenshots here)
-Example:
-
-/images/pizza_dashboard.png
 ***
 ### 🚀 How to Use
 
